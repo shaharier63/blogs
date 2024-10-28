@@ -1,0 +1,74 @@
+
+.container{
+background-color: Medium grey;
+  width: 1440px;
+  margin: 0% auto;
+}
+.featured-posts-wrapper{
+  display: flex;
+}
+.Post{
+  padding: 32px 32px 25px 32px;
+}
+.Post:hover{
+  background-color: #FBF6EA;
+}
+.title{
+  font-family: "Sen", sans-serif;
+  color: #232536;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}
+.project1{
+    width:669px;
+    height:352px;
+   
+}
+  .John-Doe{
+    color: Purple;
+  }
+  .read-more{
+    background-color:#FFD050;
+    color: #232536;
+    width: 204px;
+    height: 56px;
+  }
+  .View-All{
+    display: flex;
+    justify-content:end;
+  }
+
+  .conteiner div p{
+    color:#6D6E76;
+  }
+ 
+ 
+  .container-2{
+    background-color: #F4F0F8;
+    width:1280px;
+    height:500px;
+  }
+
+  .read-more2{
+    color: #592EA9;
+    border: none;
+    font-weight: 700;
+  }
+
+  .container-2{
+    width: 1440px;
+  margin: 0% auto;
+
+  }
+.featured-posts-wrapper-2{
+  display: flex;
+}
+.featured-posts-wrapper-2 .h1{
+  color: #232536;
+  font-family: Sen;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -1px;
+}
